@@ -28,6 +28,11 @@
     "express": "^4.19.2",
     "nodemon": "^3.1.4",
     "ts-node": "^10.9.2",
-    "typescript": "^5.5.3"
+    "typescript": "^5.5.3",
+    "cookie-parser": "^1.4.6",
+    "cookies": "^0.9.1",
+    "cors": "^2.8.5",
+    "dotenv": "^16.3.1",
+    "express-domain-middleware": "^0.1.0"
   }
 }
